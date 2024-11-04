@@ -1,0 +1,25 @@
+.task-list {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .task-list h2 {
+    margin-bottom: 10px;
+  }
+  
+  .task-list ul {
+    list-style: none; 
+    padding: 0;
+  }
+  
+  .task-list li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white; 
+  }
+  

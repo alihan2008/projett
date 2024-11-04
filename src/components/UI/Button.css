@@ -1,0 +1,14 @@
+button{
+padding: 10px 30px;
+font-size: 16px;
+background-color: blue;
+color: white;
+border: none;
+border-radius: 5px;
+}
+button:hover{
+background-color: chartreuse;
+}
+button:active{
+background-color: red;
+}
